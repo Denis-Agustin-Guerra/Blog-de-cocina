@@ -1,0 +1,28 @@
+body{
+  background-image: url(../img/background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.body-center{
+  background: rgba(132,188,61, 0.7) ;
+}
+.box-header{
+
+}
+.box-body{
+}
+.box-1{
+  border-right: 1px solid white;
+  color: white;
+  text-align: center;
+}
+.box-3{
+
+}
+.box-4{
+}
+.hc{
+  background: rgba(0,0,0, 0.0);
+  border: none;
+}
+.box
